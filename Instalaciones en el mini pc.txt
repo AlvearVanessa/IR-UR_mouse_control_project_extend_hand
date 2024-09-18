@@ -1,0 +1,28 @@
+Instalaciones en el mini pc
+May, 27 2024
+
+Chrome for Desktop 
+Chrome con gmail
+Pycharm Community Edition 2024.1.1
+
+Python 3.9.0
+Windows x86-64 executable installer
+Then, Installer interpreter
+Settings:
+- MediaPipe (mediapipe - 0.9.1.0)
+- Numpy (1.24.3)
+- OpenCV (opencv-python 4.8.0.76)
+
+Additional: (This solved the DLL problem)
+installing:
+
+vc_redist.x64.exe (Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33810)
+
+Python 3.8.0
+autopy 4.0.0
+mouse 0.7.1
+numpy 1.24.4
+opencv-python 4.9.0.80
+mediapipe 0.10.11
+Install git.exe en Pycharm
+

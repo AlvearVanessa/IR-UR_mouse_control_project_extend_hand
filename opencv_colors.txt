@@ -1,0 +1,20 @@
+WHITE_COLOR = (224, 224, 224)
+BLACK_COLOR = (0, 0, 0)
+RED_COLOR = (0, 0, 255)
+GREEN_COLOR = (0, 128, 0)
+BLUE_COLOR = (255, 0, 0)
+LIGHT_PINK_COLOR = (255, 153, 255)
+MAGENTA_COLOR = (255, 0, 255)
+LIGHT_BLUE_COLOR = (255, 255, 0)
+YELLOW_COLOR = (0, 255, 255)
+NEON_GREEN_COLOR = (0, 255, 0)
+ORANGE_COLOR = (0, 128, 255)
+LAVENDER_COLOR = (255, 0, 128)
+
+rgb
+light_blue_color = (51, 255, 255)
+lavender_color = (178, 102, 255)
+yellow = (255, 255, 102)
+light_pink = (255, 51, 255)
+
+

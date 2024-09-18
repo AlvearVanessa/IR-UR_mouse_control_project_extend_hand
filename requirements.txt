@@ -1,0 +1,10 @@
+autopy==4.0.0
+future==1.0.0
+imutils==0.5.4
+mediapipe==0.10.11
+mouse==0.7.1
+numpy==1.24.4
+opencv-python==4.9.0.80
+
+
+
