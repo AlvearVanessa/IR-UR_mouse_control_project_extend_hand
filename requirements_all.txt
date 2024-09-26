@@ -1,0 +1,12 @@
+vc_redist.x64.exe (Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33810)
+
+Python==3.8.0
+autopy==4.0.0
+mouse==0.7.1
+numpy==1.24.4
+Install git.exe en Pycharm
+opencv-python==4.9.0.80
+numpy==1.24.4
+mediapipe==0.10.11
+future
+imutils
